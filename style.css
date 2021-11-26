@@ -341,7 +341,7 @@ p.header-text {
     overflow: hidden;
 }
 
-.modal-article2 .anchor1 .btn-article {
+.modal-article2 .anchor1 {
     position: relative;
     top: -90px;
     left: 1027px;
@@ -385,7 +385,7 @@ p.header-text {
     overflow: hidden;
 }
 
-.modal-article2 .anchor2 .btn-article {
+.modal-article2 .anchor2 {
     position: relative;
     top: 20px;
     left: 628px;
